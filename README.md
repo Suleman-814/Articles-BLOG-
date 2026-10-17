@@ -79,4 +79,4 @@ If you notice an error or have an improvement suggestion, feel free to open an i
 
 Unless otherwise stated, the articles and written content in this repository are my own work.
 
-Thank You!!
+**Thank You!!**
